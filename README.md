@@ -3,8 +3,8 @@ constantly learning and growing... <br />
 <br />
 <div align="center">
   <a href="https://www.linkedin.com/in/pedro-castillo-657a86222/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro29v&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro29v&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" width='400em' src="https://github-readme-stats.vercel.app/api?username=Pedro29v&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width='400em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro29v&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
    <br/>
