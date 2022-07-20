@@ -1,5 +1,6 @@
 Hi, I'm Pedro Castillo! 😉 Fullstack developer, <br />
-constantly learning and growing... <br />
+Con experiencia en HTML, JavaScript, CSS, Tailwind, React, Redux, Node Js, PostgreSQL entre otras tecnologías. <br />
+Cuento con más de 800 horas teórico-práctico.
 <br />
 <div align="center">
   <a href="https://www.linkedin.com/in/pedro-castillo-657a86222/">
