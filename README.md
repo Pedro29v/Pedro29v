@@ -1,5 +1,5 @@
 Hi, I'm Pedro Castillo! 😉 Fullstack developer, <br />
-Con experiencia en HTML, JavaScript, CSS, Tailwind, React, Redux, Node Js, PostgreSQL entre otras tecnologías. <br />
+I have experience in HTML, JavaScript, CSS, Tailwind, React, Redux, Node Js, PostgreSQL. <br />
 
 <br />
 <div align="center">
