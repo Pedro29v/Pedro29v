@@ -34,6 +34,8 @@
   </div>
   
   <br/>
+  
+   <p><h2>Contact</h2></p>
  
 <div> 
   
