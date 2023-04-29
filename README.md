@@ -1,4 +1,5 @@
-Hi, I'm Pedro Castillo! 😉 Fullstack developer, <br />
+<h1>Hi <img height="180em" width='400em' src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" /> My name is Pedro Castillo!</h1> <br />
+  <h2>I´m a Fullstack developer </h2>   <br />
 I have experience in HTML, JavaScript, CSS, Tailwind, React, Redux, Node Js, PostgreSQL. <br />
 
 <br />
