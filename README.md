@@ -1,5 +1,5 @@
 <h1>Hi <img height="60em" width='170em' src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" /> My name is Pedro Castillo!</h1> 
-  <h2>I´m a Front End developer </h2>   <br />
+  <h2>I´m a Full Stack developer </h2>   <br />
 <ul>
   <li>🌍 I'm based in Caxias do sul, Brasil</li>
   <li>💼 See my portfolio <a href="https://portfolio-mocha-omega-74.vercel.app/" target="_blank" >at Portfolio<a/></li>
